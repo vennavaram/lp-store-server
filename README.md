@@ -1,2 +1,2 @@
 # lp-store-server
-A basic RESFTful server for training purposes
+A basic RESTful server for training purposes
