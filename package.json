@@ -8,11 +8,13 @@
     "express": "^4.16.3"
   },
   "devDependencies": {},
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "Alain Chautard",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alcfeoh/di-node-js/tree/master/express"
+    "url": "https://github.com/alcfeoh/lp-store-server"
   }
 }
