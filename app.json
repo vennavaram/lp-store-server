@@ -1,0 +1,6 @@
+{
+  "name": "License Plate Store App",
+  "description": "A License Plate Store app built with Angular JS, Node.JS, and Express",
+  "repository": "https://github.com/alcfeoh/lp-store-serve",
+  "keywords": ["node", "express", "angularjs"]
+}
