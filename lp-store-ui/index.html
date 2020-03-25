@@ -53,7 +53,7 @@
         <!-- Example row of columns -->
         <div class="row">
           <div class="col-md-4" style="margin-top: 40px" ng-repeat="plate in plates">
-            <h2>{{plate.title}}</h2>
+            <h2>{{plate.title | uppercase}}</h2>
             <img src="{{plate.picture}}" class="img-fluid" alt="Responsive image">
             <p>{{plate.description}}</p>
             <p> <h2 class="float-left">${{plate.price}}</h2><a class="btn btn-primary float-right" href="#" role="button" ng-click="addToCart(plate._id)">Add to cart &raquo;</a></p>
